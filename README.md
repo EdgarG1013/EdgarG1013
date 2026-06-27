@@ -75,7 +75,7 @@ Apasionado por construir soluciones backend escalables, limpias y eficientes, co
             <img src="/img/Yeshua-studio.png" 
                  width="100%" 
                  style="border-radius: 8px;" 
-                 alt="Sistema de Seguimiento Ciudadano de Buenaventura"/>
+                 alt="Catalogo cristiano de yeshua studio"/>
         </a>
         <br/><br/>
         <a href="https://yeshuastudio.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -90,6 +90,28 @@ Apasionado por construir soluciones backend escalables, limpias y eficientes, co
     </td>
     <!-- Aquí irían más proyectos -->
   </tr>
+
+   <tr>
+    <td align="center" width="50%">
+        <a href="https://tempest-tura.ds2.eleueleo.com/" target="_blank" rel="noopener noreferrer">
+            <img src="/img/Tempest-Tura.png" 
+                 width="100%" 
+                 style="border-radius: 8px;" 
+                 alt="Tempest-Tura"/>
+        </a>
+        <br/><br/>
+        <a href="https://tempest-tura.ds2.eleueleo.com/" target="_blank" rel="noopener noreferrer">
+            <b>Tempest-Tura</b>
+        </a>
+        <br/>
+        <sub>Tempest-Tura es una aplicación web moderna de frontend desarrollada en React + TypeScript + Vite que implementa monitoreo climático y gestión de riesgos comunitarios que combina datos meteorológicos en tiempo real con un sistema de reportes ciudadanos</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+    </td> 
+  </tr>
+
 </table>
 
 ---
@@ -105,8 +127,8 @@ Apasionado por construir soluciones backend escalables, limpias y eficientes, co
 
 ## Contacto
 
--  **LinkedIn:** *(agrega tu LinkedIn aquí)*
--  **Email:** *(agrega tu correo aquí)*
+-  **LinkedIn:** *https://www.linkedin.com/in/edgar-stiven-garcia-aragon-50646b378/*
+-  **Email:** *edgar.stivenfeacst@gmail.com*
 -  **Ubicación:** Colombia
 
 ---
