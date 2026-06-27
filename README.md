@@ -49,25 +49,44 @@ Apasionado por construir soluciones backend escalables, limpias y eficientes, co
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/EdgarG1013/EdgarG1013/snake-output/snake.svg" alt="Snake animation" />
 
-## 🚀 Proyectos Destacados
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/TU_USUARIO/TU_REPO" target="_blank">
-        <img src="https://via.placeholder.com/400x200/1a1b27/7aa2f7?text=📍+CiudadanIA+BVA" 
-             width="100%" 
-             style="border-radius: 8px;" 
-             alt="CiudadanIA BVA"/>
+        <a href="https://desarrollo-software-1.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <img src="/img/Buenaventura-reportes.png" 
+                 width="100%" 
+                 style="border-radius: 8px;" 
+                 alt="Sistema de Seguimiento Ciudadano de Buenaventura"/>
+        </a>
         <br/><br/>
-        <b>📍 CiudadanIA BVA</b>
+        <a href="https://desarrollo-software-1.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <b>Sistema de Seguimiento Ciudadano de Buenaventura</b>
+        </a>
         <br/>
-        <sub>Plataforma integral para el seguimiento de casos y reportes ciudadanos en Buenaventura. Reporta problemas de infraestructura, servicios públicos y más.</sub>
+        <sub>Sistema de reportes ciudadanos para Buenaventura. Una plataforma moderna y completamente funcional que permite a los ciudadanos reportar problemas urbanos (luminarias, vías, recolección de residuos, agua potable, inseguridad) con seguimiento en tiempo real, y facilita a las entidades responsables su gestión, atención y resolución</sub>
         <br/><br/>
-        <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
         <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
-      </a>
+        <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+    </td> 
+     <td align="center" width="50%">
+        <a href="https://yeshuastudio.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <img src="/img/Yeshua-studio.png" 
+                 width="100%" 
+                 style="border-radius: 8px;" 
+                 alt="Sistema de Seguimiento Ciudadano de Buenaventura"/>
+        </a>
+        <br/><br/>
+        <a href="https://yeshuastudio.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <b>Yeshua Studio</b>
+        </a>
+        <br/>
+        <sub>una pagina tipo catalogo interactiva con administración remota para la venta de productos y servicios cristianos en buenaventura</sub>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
     </td>
     <!-- Aquí irían más proyectos -->
   </tr>
