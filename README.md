@@ -12,9 +12,10 @@
 
 ## Sobre mi
 
-Tecnólogo en Desarrollo de Software con experiencia en el desarrollo de **APIs RESTful** y aplicaciones web usando tecnologías modernas como **Spring Boot, Laravel y Node.js**.
+Soy **Tecnólogo en Desarrollo de Software** con experiencia en el desarrollo de **APIs RESTful** y aplicaciones web usando **Spring Boot, Laravel y Node.js**, apasionado por construir soluciones backend escalables y eficientes con bases de datos relacionales y despliegues en plataformas cloud. Me caracterizo por aplicar principios de código limpio y arquitectura sólida, manteniendo siempre una mentalidad de aprendizaje continuo y mejora constante.  
 
-Apasionado por construir soluciones backend escalables, limpias y eficientes, con conocimiento en bases de datos relacionales y plataformas cloud. **Código limpio, arquitectura sólida y siempre aprendiendo.**
+Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles, facilitando ceremonias y promoviendo la colaboración efectiva. Manejo herramientas de gestión como **Jira**, **Trello** y GitHub Projects para la planificación y seguimiento de proyectos. Mi nivel de inglés **B1** me permite entender y aportar habilidades técnicas de liderazgo en cada proyecto.
+
 
 ---
 
@@ -42,6 +43,8 @@ Apasionado por construir soluciones backend escalables, limpias y eficientes, co
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
@@ -104,7 +107,7 @@ Apasionado por construir soluciones backend escalables, limpias y eficientes, co
             <b>Tempest-Tura</b>
         </a>
         <br/>
-        <sub>Tempest-Tura es una aplicación web moderna de frontend desarrollada en React + TypeScript + Vite que implementa monitoreo climático y gestión de riesgos comunitarios que combina datos meteorológicos en tiempo real con un sistema de reportes ciudadanos</sub>
+        <sub>Tempest-Tura es una aplicación web moderna implementa monitoreo climático y gestión de riesgos comunitarios que combina datos meteorológicos en tiempo real con un sistema de reportes ciudadanos</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
         <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
