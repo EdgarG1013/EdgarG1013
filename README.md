@@ -67,7 +67,7 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
             <b>Sistema de Seguimiento Ciudadano de Buenaventura</b>
         </a>
         <br/>
-        <sub>Sistema de reportes ciudadanos para Buenaventura. Una plataforma moderna y completamente funcional que permite a los ciudadanos reportar problemas urbanos (luminarias, vías, recolección de residuos, agua potable, inseguridad) con seguimiento en tiempo real, y facilita a las entidades responsables su gestión, atención y resolución</sub>
+        <sub>Una plataforma moderna y completamente funcional que permite a los ciudadanos reportar problemas urbanos (luminarias, vías, recolección de residuos, agua potable, inseguridad) con seguimiento en tiempo real, y facilita a las entidades responsables su gestión, atención y resolución</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
         <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -85,7 +85,7 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
             <b>Yeshua Studio</b>
         </a>
         <br/>
-        <sub>una pagina tipo catalogo interactiva con administración remota para la venta de productos y servicios cristianos en buenaventura</sub>
+        <sub>Una pagina web reponsive tipo catalogo interactiva con administración remota para la venta de productos y servicios cristianos en buenaventura</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
         <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -107,7 +107,7 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
             <b>Tempest-Tura</b>
         </a>
         <br/>
-        <sub>Tempest-Tura es una aplicación web moderna implementa monitoreo climático y gestión de riesgos comunitarios que combina datos meteorológicos en tiempo real con un sistema de reportes ciudadanos</sub>
+        <sub>Una aplicación web moderna implementa monitoreo climático y gestión de riesgos comunitarios que combina datos meteorológicos en tiempo real con un sistema de reportes ciudadanos</sub>
         <br/><br/>
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
         <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
