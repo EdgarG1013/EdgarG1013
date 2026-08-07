@@ -140,7 +140,7 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 
 <div data-importer="stats" align="left">
 
-  <img src="https://raw.githubusercontent.com/EdgarG1013/EdgarG1013/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+ [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=EdgarG1013&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
 
   <img src="https://raw.githubusercontent.com/EdgarG1013/EdgarG1013/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
