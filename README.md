@@ -130,7 +130,7 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 
 ## Contacto
 
--  **LinkedIn:** *https://www.linkedin.com/in/edgar-stiven-garcia-aragon-50646b378/*
+-  **LinkedIn:** *https://www.linkedin.com/in/edgar-g1013/*
 -  **Email:** *edgar.stivenfeacst@gmail.com*
 -  **Ubicación:** Colombia
 
