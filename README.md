@@ -23,28 +23,87 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 
 ### Backend Development
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50" height="50" alt="Java">
+      <br />
+      <sub><b>Sprin Boot</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="50" height="50" alt="HTML">
+      <br />
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="50" height="50" alt="HTML">
+      <br />
+      <sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" height="50" alt="Java">
+      <br />
+      <sub><b>React</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Bases de Datos & Cloud
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" height="50" alt="Java">
+      <br />
+      <sub><b>MySql</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="50" height="50" alt="HTML">
+      <br />
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="50" height="50" alt="HTML">
+      <br />
+      <sub><b>Supabase</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Herramientas
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" height="50" alt="Java">
+      <br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="HTML">
+      <br />
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50" alt="HTML">
+      <br />
+      <sub><b>Trello</b></sub>
+    </td>
+  </tr>
+      <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" width="50" height="50" alt="HTML">
+      <br />
+      <sub><b>Jira</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
