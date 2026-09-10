@@ -199,13 +199,13 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 
 <div data-importer="stats" align="left">
 
- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=EdgarG1013&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
+![Stats](https://readme-stats-two-rouge.vercel.app/api/card/stats?username=EdgarG1013&theme=dracula)
 
-  <img src="https://raw.githubusercontent.com/EdgarG1013/EdgarG1013/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+![Languages](https://readme-stats-two-rouge.vercel.app/api/card/languages?username=EdgarG1013&theme=dracula)
 
-  <img src="https://streak-stats.demolab.com?user=EdgarG1013&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=EdgarG1013&theme=dracula)
 
-  <img src="https://raw.githubusercontent.com/EdgarG1013/EdgarG1013/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+![Contributions](https://readme-stats-two-rouge.vercel.app/api/card/contributions?username=EdgarG1013&theme=dracula)
 
 </div>
 
