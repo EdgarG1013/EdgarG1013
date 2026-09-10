@@ -199,13 +199,13 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 
 <div data-importer="stats" align="left">
 
-![Stats](https://readme-stats-two-rouge.vercel.app/api/card/stats?username=EdgarG1013&theme=dracula)
+![Stats](https://readme-stats-two-rouge.vercel.app/api/card/stats?username=EdgarG1013&theme=dracula&show_icons=true&border_radius=6)
 
-![Languages](https://readme-stats-two-rouge.vercel.app/api/card/languages?username=EdgarG1013&theme=dracula)
+![Languages](https://readme-stats-two-rouge.vercel.app/api/card/languages?username=EdgarG1013&theme=dracula&border_radius=6)
 
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=EdgarG1013&theme=dracula)
 
-![Contributions](https://readme-stats-two-rouge.vercel.app/api/card/contributions?username=EdgarG1013&theme=dracula)
+![Contributions](https://readme-stats-two-rouge.vercel.app/api/card/contributions?username=EdgarG1013&theme=dracula&border_radius=6)
 
 </div>
 
