@@ -201,7 +201,7 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 
 ![Stats](https://readme-stats-two-rouge.vercel.app/api/card/stats?username=EdgarG1013&theme=dracula&show_icons=true&border_radius=6)
 
-![Languages](https://readme-stats-two-rouge.vercel.app/api/card/languages?username=EdgarG1013&theme=dracula&border_radius=6)
+![Languages](https://readme-stats-two-rouge.vercel.app/api/card/languages?username=EdgarG1013&theme=dracula&border_radius=6&langs_count=8)
 
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=EdgarG1013&theme=dracula)
 
