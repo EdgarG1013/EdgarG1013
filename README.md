@@ -26,19 +26,24 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50" height="50" alt="Java">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" width="50" height="50" alt="SpringBoot">
       <br />
       <sub><b>Sprin Boot</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="50" height="50" alt="HTML">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="50" height="50" alt="Laravel">
       <br />
       <sub><b>Laravel</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="50" height="50" alt="HTML">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="50" height="50" alt="Next.js">
       <br />
       <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" width="50" height="50" alt="Nest.js">
+      <br />
+      <sub><b>Nest.js</b></sub>
     </td>
   </tr>
 </table>
@@ -48,7 +53,7 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" height="50" alt="Java">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" height="50" alt="React">
       <br />
       <sub><b>React</b></sub>
     </td>
@@ -60,17 +65,17 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" height="50" alt="Java">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="50" height="50" alt="MySql">
       <br />
       <sub><b>MySql</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="50" height="50" alt="HTML">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="50" height="50" alt="PostgreSQL">
       <br />
       <sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="50" height="50" alt="HTML">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" width="50" height="50" alt="Supabase">
       <br />
       <sub><b>Supabase</b></sub>
     </td>
@@ -82,23 +87,22 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" height="50" alt="Java">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="50" height="50" alt="Git">
       <br />
       <sub><b>Git</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub">
       <br />
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50" alt="HTML">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50" alt="Trello">
       <br />
       <sub><b>Trello</b></sub>
     </td>
-  </tr>
-      <td align="center">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" width="50" height="50" alt="HTML">
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" width="50" height="50" alt="Jira">
       <br />
       <sub><b>Jira</b></sub>
     </td>
