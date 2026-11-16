@@ -159,14 +159,14 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 
    <tr>
     <td align="center" width="50%">
-        <a href="https://tempest-tura.ds2.eleueleo.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://tempest-tura.com" target="_blank" rel="noopener noreferrer">
             <img src="/img/Tempest-Tura.png" 
                  width="100%" 
                  style="border-radius: 8px;" 
                  alt="Tempest-Tura"/>
         </a>
         <br/><br/>
-        <a href="https://tempest-tura.ds2.eleueleo.com/" target="_blank" rel="noopener noreferrer">
+        <a href="https://tempest-tura.com" target="_blank" rel="noopener noreferrer">
             <b>Tempest-Tura</b>
         </a>
         <br/>
@@ -207,7 +207,7 @@ Además, cuento con experiencia como **Scrum Master** liderando equipos ágiles,
 
 ![Languages](https://readme-stats-two-rouge.vercel.app/api/card/languages?username=EdgarG1013&theme=dracula&border_radius=6&langs_count=8)
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=EdgarG1013&theme=dracula)
+![GitHub Streak](https://readme-stats-two-rouge.vercel.app/api/card/streak?username=EdgarG1013&theme=dracula&border_radius=6)
 
 ![Contributions](https://readme-stats-two-rouge.vercel.app/api/card/contributions?username=EdgarG1013&theme=dracula&border_radius=6)
 
